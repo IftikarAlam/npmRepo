@@ -1,6 +1,6 @@
 import React,{useState} from "react";
 
-function App() {
+function myOTP() {
 
 
   const [number, setNumber] = useState();
@@ -62,4 +62,4 @@ const OTPLength = ({otpLength}) => {
     
 }
 
-export default App;
+export default myOTP;
