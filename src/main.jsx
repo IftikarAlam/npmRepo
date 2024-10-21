@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import OTP from './myOTP.jsx'
+import OTP from 'iftikara_myotp'
 import "./myStyles.css"
 
 
