@@ -1,0 +1,12 @@
+body {
+    background-color : #B7E0FF;
+}
+
+.containerStyle {
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
