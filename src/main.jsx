@@ -1,14 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './components/App.jsx'
+import OTP from './myOTP.jsx'
 import "./myStyles.css"
 
 
-ReactDOM.render(<App />,document.getElementById('root'));
+ReactDOM.render(<OTP />,document.getElementById('root'));
 
 
 // ReactDOM.createRoot(document.getElementById('root')).render(
 //   <React.StrictMode>
-//     <App />
+//     <OTP />
 //   </React.StrictMode>,
 // )
